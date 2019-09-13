@@ -12,16 +12,58 @@ ul {
     margin:0;
     padding:0;
     overflow:hidden;
-    background-color:#dd3456;
+    background-color:cornflowerblue;
+
 
 }
 a{
     text-decoration: none;
 }
 nav ul{
-    padding: 20px;
+    padding: 60px;
 }
 nav ul li{
     display: inline;
-    padding: 30px;
+    padding: 50px;
+}
+.w3-green{
+    animation: 5s w3-green;
+}
+@keyframes w3-green{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90%;
+    }
+}
+.w3-red{
+    animation: 5s w3-red;
+}
+@keyframes w3-red{
+    0%{
+        width:0%;
+    }
+    100%{
+        width:80;
+    }
+}
+.w3-blue{
+    animation: 5s w3-blue;
+}
+@keyframes w3-blue{
+0%{
+    width:0%;
+}
+100%{
+    width:70%;
+}
+}
+.languages{
+    display:block;
+    background-color:grey;
+    width:600px;
+    border-collapse: collapse;
+    
+
 }
