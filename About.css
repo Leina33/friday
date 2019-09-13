@@ -1,7 +1,27 @@
 
 body{
-    background-color:red;
+    background-color:whitesmoke;
 }
-h1{
 
+.navbar{
+    display:block;
+    color:blue;
+}
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#dd3456;
+
+}
+a{
+    text-decoration: none;
+}
+nav ul{
+    padding: 20px;
+}
+nav ul li{
+    display: inline;
+    padding: 30px;
 }
