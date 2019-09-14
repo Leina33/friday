@@ -69,3 +69,46 @@ nav ul li{
     
 
 }
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+img{
+    width:100px;
+    height:100px;
+    position:relative;
+
+}
+.subs{
+    padding:0;
+    margin:0;
+    
+}
+.dynamic{
+    border:1px solid black;
+    padding:2px;
+    margin:5px;
+    width:500px;
+    height:200px;
+    overflow: visible;
+
+
+}
+.intuitive{
+    border:1px solid green;
+    padding:2px;
+    margin:5px;
+    width:500px;
+    height:200px;
+    
+}
+.animation{
+    border:1px solid green;
+    padding:2px;
+    margin:5px;
+    width:500px;
+    height:200px;
+    text-align:left;  
+}
