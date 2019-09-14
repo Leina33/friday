@@ -84,6 +84,7 @@ img{
 .subs{
     padding:0;
     margin:0;
+    display:inline;
     
 }
 .dynamic{
@@ -110,5 +111,5 @@ img{
     margin:5px;
     width:500px;
     height:200px;
-    text-align:left;  
+    
 }
