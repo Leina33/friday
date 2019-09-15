@@ -166,3 +166,17 @@ img{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-attachment: scroll;
 }
+.fixed-footer{
+    bottom: 0;
+}
+.container{
+    width: 100%;
+    margin: 0 auto; /* Center the DIV horizontally */
+    text-align:center;
+    text-decoration-color: brown;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
