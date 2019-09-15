@@ -113,3 +113,19 @@ img{
     height:200px;
     
 }
+#PROJECTS{
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float:left;
+
+
+}
+.projects{
+    text-align:center;
+    text-decoration:underline;
+    text-transform:uppercase;
+    text-indent:50px;
+    text-shadow: 4px 2 yellow;
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
