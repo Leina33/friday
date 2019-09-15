@@ -158,10 +158,11 @@ img{
 }
 .One{
     text-align:center;
-    top:0;
-    bottom:0;
-    float: left;
-}
-0l {
-    text-align:left;
+    text-decoration:underline;
+    text-transform:uppercase;
+    text-indent:50px;
+    text-shadow: 4px 2 yellow;
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-attachment: scroll;
 }
