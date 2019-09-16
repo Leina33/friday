@@ -2,7 +2,7 @@
 #### This is my personnal portifolio, 2019
 #### By **DOMINIC RUTTO**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is my personnal profile application for web development
 ## Setup/Installation Requirements
 * Clone or download and unzip the repository from github,https://leina33.github.io/friday/
 * You can use this command(git clone mylink)to clone the project to your machine if you have git.
