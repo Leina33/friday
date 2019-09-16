@@ -1,6 +1,7 @@
 
 body{
     background-color:whitesmoke;
+    background-image: "bq4.jpeg";
 }
 
 .navbar{
@@ -95,6 +96,8 @@ img{
     width:500px;
     height:200px;
     overflow: visible;
+    display: flex;
+    float: left;
 
 
 }
@@ -104,6 +107,7 @@ img{
     margin:5px;
     width:500px;
     height:200px;
+    display: flex;
     
 }
 .animation{
@@ -179,4 +183,8 @@ img{
     body {
       background-color: lightblue;
     }
+  }
+  #About{
+      display: flex;
+      clear: both;
   }
